@@ -1,5 +1,7 @@
 # Carrinho Robô 4WD com ESP32
 
+Victoria Franceschini Pizza rm550609
+
 ## 1. Sobre o projeto
 
 Este repositório documenta o processo de desenvolvimento de um **carrinho robótico 4WD controlado por comunicação sem fio**, utilizando microcontroladores ESP32, quatro motores DC, duas pontes H e sensor ultrassônico.
@@ -8,17 +10,6 @@ O projeto foi desenvolvido de forma incremental, passando por diferentes versõe
 
 Mais do que apresentar apenas o resultado final, este repositório registra a **evolução do projeto**, incluindo requisitos, planejamento, decisões tomadas, testes, dificuldades encontradas, alterações no circuito, desenvolvimento da carenagem e melhorias realizadas ao longo do processo.
 
----
-
-# 2. Integrantes
-
-* **Nome:** [INTEGRANTE 1]
-
-* **RM:** [RM]
-
-* **Nome:** [INTEGRANTE 2]
-
-* **RM:** [RM]
 
 ---
 
